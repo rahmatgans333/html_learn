@@ -1,0 +1,41 @@
+/* ini atas */
+.ibu{
+    padding-left: 25px;
+    padding-top: 50px;
+    /* background-color: aqua; */
+}
+.ibu .profile{
+   margin: -5px;
+   
+}
+.ibu .am{
+    margin-bottom: -10px;
+
+}
+
+.bapa {
+    display: flex;
+    padding-left: 25px;
+    gap: 20px ;
+
+    
+}
+img {
+    padding-top: 25px;
+    width: 120px;
+}
+.bapa .test1 .am {
+    /* background-color: black; */
+margin-bottom: -5px;
+}
+
+.bapa .am {
+    margin-bottom: -13px;
+}
+
+.bapa .test1 .am {
+    margin-bottom: -11px;
+}
+
+/*ini bawah*/
+
