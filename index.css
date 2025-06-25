@@ -34,20 +34,3 @@ main {
     margin-bottom: 8px;
 }
 
-/* STYLE UNTUK TABLE */
-table {
-    width: 100%;
-}
-table tr td {
-    border: 1px solid;
-    border-color: rgb(0, 0, 0);
-    background-color: bisque;
-    padding: 10px;
-}
-th {
-    border: 1px solid;
-    border-color: rgb(0, 0, 0);
-    background-color: bisque;
-    padding: 10px;
-}
-
