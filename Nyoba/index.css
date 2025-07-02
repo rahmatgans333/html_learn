@@ -1,0 +1,36 @@
+/* STYLE UNTUK CV */
+/* atas */
+.test {
+    display: flex;
+    gap: 15px;
+    margin-top: 0px;
+    padding-top: 5px;
+    margin-bottom: -5px;
+}
+img {
+    padding-top: 10px;
+    width: 108px;
+}
+.test1 {
+    margin-bottom: -10px;
+}
+.test2 {
+    margin-bottom: -10px;
+}
+.garis {
+    margin-bottom:-8px ;
+}
+main {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+        /* Bawah */
+.ama1 {
+    margin-bottom: -8px;
+
+}
+.ama2 {
+    margin-bottom: 8px;
+}
+
